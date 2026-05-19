@@ -82,7 +82,7 @@ const i18n = {
     supportLead: "Need help with routines, notifications, widgets, Apple Watch sync, or privacy controls? Start here.",
     supportUpdated: "Last updated: May 16, 2026",
     supportContactTitle: "Contact",
-    supportContactBody: "Email support@routina.app with your device model, iOS version, app version, and a short description of the issue.",
+    supportContactBody: "Email routina247@gmail.com with your device model, iOS version, app version, and a short description of the issue.",
     supportFaqTitle: "Common Help Topics",
     supportFaqOne: "Notifications: confirm notification permission is enabled in iOS Settings and inside Routina settings.",
     supportFaqTwo: "Apple Watch: open Routina on iPhone first, then refresh the Watch app to request a fresh snapshot.",
@@ -104,7 +104,7 @@ const i18n = {
     privacyPhotosTitle: "Photos",
     privacyPhotosBody: "If you add photos to routines, Routina uses them only for the routine experience. Avoid adding sensitive images unless you are comfortable storing them on your device and in your enabled sync services.",
     privacyContactTitle: "Contact",
-    privacyContactBody: "For privacy questions, contact support@routina.app."
+    privacyContactBody: "For privacy questions, contact routina247@gmail.com."
   },
   th: {
     navFeatures: "ฟีเจอร์",
@@ -189,7 +189,7 @@ const i18n = {
     supportLead: "ต้องการความช่วยเหลือเกี่ยวกับกิจวัตร การแจ้งเตือน widget, Apple Watch sync หรือ privacy controls เริ่มได้ที่นี่",
     supportUpdated: "อัปเดตล่าสุด: 16 พฤษภาคม 2026",
     supportContactTitle: "ติดต่อ",
-    supportContactBody: "อีเมล support@routina.app พร้อมรุ่นอุปกรณ์ เวอร์ชัน iOS เวอร์ชันแอป และคำอธิบายปัญหาแบบสั้น ๆ",
+    supportContactBody: "อีเมล routina247@gmail.com พร้อมรุ่นอุปกรณ์ เวอร์ชัน iOS เวอร์ชันแอป และคำอธิบายปัญหาแบบสั้น ๆ",
     supportFaqTitle: "หัวข้อช่วยเหลือทั่วไป",
     supportFaqOne: "การแจ้งเตือน: ตรวจสอบว่าเปิด permission ใน iOS Settings และใน Routina settings แล้ว",
     supportFaqTwo: "Apple Watch: เปิด Routina บน iPhone ก่อน แล้ว refresh แอปบน Watch เพื่อขอ snapshot ใหม่",
@@ -211,7 +211,7 @@ const i18n = {
     privacyPhotosTitle: "รูปภาพ",
     privacyPhotosBody: "หากคุณเพิ่มรูปในกิจวัตร Routina ใช้รูปนั้นเพื่อประสบการณ์ในกิจวัตรเท่านั้น หลีกเลี่ยงการเพิ่มรูปที่ละเอียดอ่อนหากไม่ต้องการเก็บไว้บนอุปกรณ์หรือบริการซิงก์ที่เปิดใช้งาน",
     privacyContactTitle: "ติดต่อ",
-    privacyContactBody: "หากมีคำถามด้าน privacy ติดต่อ support@routina.app"
+    privacyContactBody: "หากมีคำถามด้าน privacy ติดต่อ routina247@gmail.com"
   }
 };
 

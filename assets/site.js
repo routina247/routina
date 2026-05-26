@@ -243,6 +243,10 @@ function applyLang(lang) {
     const key = node.dataset.i18nAria;
     if (i18n[lang][key]) node.setAttribute("aria-label", i18n[lang][key]);
   });
+  document.querySelectorAll("img[data-img-en][data-img-th]").forEach((img) => {
+    const next = img.dataset[lang === "th" ? "imgTh" : "imgEn"];
+    if (next && img.getAttribute("src") !== next) img.setAttribute("src", next);
+  });
 }
 
 function applyThemeIcon() {
